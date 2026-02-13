@@ -1,0 +1,339 @@
+Code Barre;nom produit;catégorie;prix unitaire
+6131000001001;Lait UHT entier 1L Cevital;Produit Laitier;85
+6131000001002;Lait pasteurisé sachet 1L;Produit Laitier;28
+6131000001003;Yaourt nature 125g x8 Matebel;Produit Laitier;180
+6131000001004;Fromage portions La Vache qui Rit 8x;Produit Laitier;320
+6131000001005;Jben frais 500g local;Produit Laitier;220
+6131000001006;Fromage râpé 200g;Produit Laitier;280
+6131000001007;Beurre 200g Président;Produit Laitier;380
+6131000001008;Crème fraîche 200ml;Produit Laitier;150
+6131000001009;Ricotta 250g;Produit Laitier;260
+6131000001010;Yaourt brassé fruits x4;Produit Laitier;220
+6131000002001;Coca-Cola 1.5L;Boisson et Eaux;120
+6131000002002;Eau minérale Oued Zitoun 1.5L x6;Boisson et Eaux;280
+6131000002003;Jus d'orange Ifri 1L;Boisson et Eaux;190
+6131000002004;Hamoud 1L;Boisson et Eaux;100
+6131000002005;Jus multifruits Cevital 1L;Boisson et Eaux;170
+6131000002006;Eau minérale 1.5L Condor x6;Boisson et Eaux;250
+6131000002007;Sirop grenadine 1L;Boisson et Eaux;320
+6131000002008;Thé vert Lipton 500g;Boisson et Eaux;480
+6131000002009;Café moulu 250g;Boisson et Eaux;420
+6131000002010;Boisson gazeuse orangina 1L;Boisson et Eaux;140
+6131000003001;Jambon dinde tranché 200g;Charcuterie;380
+6131000003002;Merguez bœuf 500g;Charcuterie;550
+6131000003003;Saucisson sec 300g;Charcuterie;450
+6131000003004;Pâté de foie 100g;Charcuterie;160
+6131000003005;Blanc de poulet fumé 200g;Charcuterie;420
+6131000003006;Mortadelle 300g;Charcuterie;320
+6131000003007;Kebda merguez 400g;Charcuterie;480
+6131000004001;Chips Lay's nature 150g;Produit Salé;130
+6131000004002;Chips chili 125g;Produit Salé;110
+6131000004003;Cacahuètes grillées 200g;Produit Salé;220
+6131000004004;Popcorn micro-ondes x3;Produit Salé;180
+6131000004005;Noisettes 200g;Fruit Sec;380
+6131000004006;Amandes 250g;Fruit Sec;480
+6131000004007;Dattes Deglet Nour 1kg;Fruit Sec;650
+6131000004008;Raisins secs 500g;Fruit Sec;320
+6131000005001;Biscuits Petit Beurre 200g;Gâteau et Biscuit;100
+6131000005002;Gaufrettes vanille 150g;Gâteau et Biscuit;90
+6131000005003;Madeleines 300g;Gâteau et Biscuit;200
+6131000005004;Gateau au chocolat individuel;Gâteau et Biscuit;80
+6131000005005;Biscuits LU type Prince 180g;Gâteau et Biscuit;150
+6131000006001;Chocolat lait tablette 100g Poulain;Confiserie et Friandise;180
+6131000006002;Bonbons acidulés 250g;Confiserie et Friandise;130
+6131000006003;Chewing-gum Orbit 30 pièces;Confiserie et Friandise;80
+6131000006004;Nutella 350g;Confiserie et Friandise;580
+6131000006005;Chocolat noir 70% 100g;Confiserie et Friandise;160
+6131000007001;Couches bébé taille 4 x70 Pampers;Article Bébé;1150
+6131000007002;Lait infantile 400g Guigoz;Article Bébé;850
+6131000007003;Shampoing bébé 400ml Johnson's;Article Bébé;380
+6131000007004;Biberon 250ml;Article Bébé;500
+6131000007005;Couche taille 5 x60;Article Bébé;1200
+6131000008001;Lessive liquide 3L Ariel;Produit d'entretien;650
+6131000008002;Javel 1L;Produit d'entretien;140
+6131000008003;Liquide vaisselle 1L Pril;Produit d'entretien;180
+6131000008004;Lessive poudre 2kg Skip;Produit d'entretien;480
+6131000008005;Détergent sol 1L;Produit d'entretien;220
+6131000009001;Huile de table 5L Cevital;Sauce et Conserve;980
+6131000009002;Concentré tomate 135g;Sauce et Conserve;55
+6131000009003;Harissa tube 130g;Sauce et Conserve;110
+6131000009004;Thon à l'huile 140g El Manar;Sauce et Conserve;220
+6131000009005;Mayonnaise 400g;Sauce et Conserve;280
+6131000009006;Ketchup 500g;Sauce et Conserve;220
+6131000010001;Semoule fine 1kg;Ingrédient et Arôme;45
+6131000010002;Farine 1kg subventionnée;Ingrédient et Arôme;28
+6131000010003;Sucre semoule 1kg;Ingrédient et Arôme;95
+6131000010004;Riz 5kg;Ingrédient et Arôme;550
+6131000010005;Pâtes spaghetti 500g;Ingrédient et Arôme;100
+6131000010006;Café moulu 250g;Ingrédient et Arôme;450
+6131000011001;Glace vanille 1L;Glace et Surgelé;380
+6131000011002;Frites surgelées 2.5kg;Glace et Surgelé;550
+6131000011003;Poulet entier surgelé 1.5kg;Glace et Surgelé;750
+6131000011004;Poisson pané surgelé 500g;Glace et Surgelé;420
+6131000012001;Smartphone entrée 128Go;High-Tech et Mobile;32000
+6131000012002;Chargeur USB-C 20W;High-Tech et Mobile;1500
+6131000012003;Écouteurs sans fil;High-Tech et Mobile;3500
+6131000013001;Mixeur 600W Moulinex;Électroménager;5500
+6131000013002;Fer à repasser;Petit Électroménager;4500
+6131000014001;Cahier 96 pages; Fournitures Scolaires;60
+6131000014002;Stylo bille pack 10; Fournitures Scolaires;220
+6131000015001;Assiettes jetables 50 unités;Vaisselle & Cuisine Jetable;280
+6131000015002;Gobelets plastique 200ml x100;Vaisselle & Cuisine Jetable;420
+6131000016001;Papier essuie-tout 2 rouleaux;Meuble et Article de Maison;220
+6131000016002;Sac poubelle 50L x20;Meuble et Article de Maison;380
+6131000017001;Pommes de terre 1kg;Produit Salé;120
+6131000017002;Tomates 1kg;Produit Salé;180
+6131000017003;Bananes 1kg;Produit Salé;400
+6131000017004;Pommes Golden 1kg;Produit Salé;420
+6131000018001;Œufs x30;Produit Laitier;450
+6131000018002;Poulet entier frais 1.5kg;Produit Salé;950
+6131000018003;Viande hachée bœuf 500g;Produit Salé;1200
+6131000019001;Shampoing Head & Shoulders 400ml;Hygiène et Beauté;450
+6131000019002;Savon liquide 1L;Hygiène et Beauté;220
+6131000019003;Dentifrice Signal 100ml;Hygiène et Beauté;180
+6131000019004;Savon de Marseille 400g;Hygiène et Beauté;160
+6131000020001;Tomates en conserve 400g;Sauce et Conserve;120
+6131000020002;Haricots verts conserve 400g;Sauce et Conserve;140
+6131000020003;Sardines huile 125g;Sauce et Conserve;90
+6131000021001;Pommes de terre 1kg locale;Produit Salé;65
+6131000021002;Tomates fraîches 1kg;Produit Salé;80
+6131000021003;Oignons secs 1kg;Produit Salé;60
+6131000021004;Bananes import 1kg;Produit Salé;420
+6131000021005;Oranges locales 1kg;Produit Salé;180
+6131000021006;Pommes Golden import 1kg;Produit Salé;450
+6131000021007;Carottes 1kg;Produit Salé;70
+6131000021008;Courgettes 1kg;Produit Salé;150
+6131000021009;Poivrons verts 1kg;Produit Salé;180
+6131000021010;Salade verte unité;Produit Salé;160
+6131000022001;Poulet entier frais ~1.5kg;Produit Salé;950
+6131000022002;Cuisses de poulet 1kg;Produit Salé;480
+6131000022003;Viande hachée bœuf 500g;Produit Salé;1300
+6131000022004;Viande bœuf sans os 1kg;Produit Salé;2500
+6131000022005;Agneau épaule 1kg;Produit Salé;2800
+6131000022006;Œufs calibre moyen x30;Produit Laitier;480
+6131000022007;Œufs x6;Produit Laitier;110
+6131000023001;Lait UHT demi-écrémé 1L Cevital;Produit Laitier;85
+6131000023002;Yaourt aux fruits x8 Matebel;Produit Laitier;220
+6131000023003;Fromage camembert portion 8x La Vache;Produit Laitier;350
+6131000023004;Fromage cheddar bloc 200g;Produit Laitier;320
+6131000023005;Beurre doux 200g;Produit Laitier;400
+6131000024001;Eau minérale Ifri 1.5L x6;Boisson et Eaux;300
+6131000024002;Jus pomme Ifri 1L;Boisson et Eaux;200
+6131000024003;Coca-Cola Zero 1.5L;Boisson et Eaux;130
+6131000024004;Sprite 1.5L;Boisson et Eaux;125
+6131000024005;Thé vert conditionné 500g;Boisson et Eaux;500
+6131000024006;Café Nescafé soluble 200g;Boisson et Eaux;550
+6131000025001;Merguez pur bœuf 500g;Charcuterie;580
+6131000025002;Jambon turkey 200g Amor;Charcuterie;400
+6131000025003;Saucisses cocktail x20;Charcuterie;350
+6131000025004;Pâté tunisien 100g;Charcuterie;170
+6131000026001;Chips Lay's sel & vinaigre 150g;Produit Salé;140
+6131000026002;Chips local chili 125g;Produit Salé;120
+6131000026003;Noix de cajou 200g;Fruit Sec;450
+6131000026004;Pistaches 250g;Fruit Sec;650
+6131000026005;Dattes Deglet 1kg premium;Fruit Sec;700
+6131000027001;Biscuits secs type LU 200g;Gâteau et Biscuit;160
+6131000027002;Gaufrettes chocolat 150g;Gâteau et Biscuit;100
+6131000027003;Madeleines chocolat x12;Gâteau et Biscuit;220
+6131000027004;Cookies aux pépites 180g;Gâteau et Biscuit;180
+6131000028001;Tablette chocolat noir 100g Poulain;Confiserie et Friandise;190
+6131000028002;Bonbons menthe 300g;Confiserie et Friandise;140
+6131000028003;Nutella pot 180g;Confiserie et Friandise;380
+6131000028004;Chocolat Kinder Surprise;Confiserie et Friandise;150
+6131000029001;Couches Pampers taille 3 x80;Article Bébé;1250
+6131000029002;Lait infantile 1er âge 400g;Article Bébé;900
+6131000029003;Crème hydratante bébé 200ml;Article Bébé;420
+6131000030001;Shampoing anti-pelliculaire 400ml;Hygiène et Beauté;480
+6131000030002;Gel douche 1L Dove;Hygiène et Beauté;350
+6131000030003;Savon antibactérien 4x;Hygiène et Beauté;180
+6131000030004;Déodorant spray 200ml;Hygiène et Beauté;280
+6131000031001;Lessive Ariel 3L;Produit d'entretien;700
+6131000031002;Liquide vaisselle Paic 1L;Produit d'entretien;200
+6131000031003;Javel parfumée 1L;Produit d'entretien;150
+6131000031004;Nettoyant multi-usages 1L;Produit d'entretien;250
+6131000032001;Huile Cevital 5L;Sauce et Conserve;980
+6131000032002;Concentré tomate 400g;Sauce et Conserve;120
+6131000032003;Thon El Manar nature 160g;Sauce et Conserve;240
+6131000032004;Sardines tomate 125g;Sauce et Conserve;110
+6131000032005;Haricots verts conserve 400g;Sauce et Conserve;150
+6131000033001;Semoule fine Cevital 1kg;Ingrédient et Arôme;48
+6131000033002;Farine subventionnée 1kg;Ingrédient et Arôme;28
+6131000033003;Sucre blanc 1kg;Ingrédient et Arôme;95
+6131000033004;Riz étuvé 5kg;Ingrédient et Arôme;650
+6131000033005;Pâtes Coquillettes 500g;Ingrédient et Arôme;110
+6131000034001;Glace vanille-fraise 1L;Glace et Surgelé;420
+6131000034002;Pizza surgelée 350g;Glace et Surgelé;380
+6131000034003;Poisson pané 400g;Glace et Surgelé;450
+6131000035001;Écouteurs Bluetooth entrée gamme;High-Tech et Mobile;3800
+6131000035002;Powerbank 10000mAh;High-Tech et Mobile;2200
+6131000036001;Cahier grand format 200 pages; Fournitures Scolaires;80
+6131000036002;Stylo gel pack x5; Fournitures Scolaires;250
+6131000037001;Assiettes carton 20cm x50;Vaisselle & Cuisine Jetable;320
+6131000037002;Gobelets jetables 250ml x100;Vaisselle & Cuisine Jetable;450
+6131000038001;Papier toilette 12 rouleaux;Meuble et Article de Maison;380
+6131000038002;Sac congélation 50 unités;Meuble et Article de Maison;280
+6131000040001;Concombre local 1kg;Produit Salé;140
+6131000040002;Aubergines 1kg;Produit Salé;160
+6131000040003;Betteraves rouges 1kg;Produit Salé;90
+6131000040004;Chou blanc unité ~1kg;Produit Salé;120
+6131000040005;Citrons locaux 1kg;Produit Salé;200
+6131000040006;Fraises import 500g;Produit Salé;650
+6131000040007;Kiwi import x6;Produit Salé;380
+6131000040008;Mangues import 1kg;Produit Salé;550
+6131000041001;Saumon fumé tranches 200g;Produit Salé;1200
+6131000041002;Filet de poisson pané 400g;Produit Salé;480
+6131000041003;Creveettes décortiquées 500g surgelé;Produit Salé;850
+6131000042001;Fromage Kiri portions x12;Produit Laitier;380
+6131000042002;Lait concentré sucré 397g;Produit Laitier;180
+6131000042003;Fromage râpé mozzarella 200g;Produit Laitier;350
+6131000043001;Jus multifruits Tropicana 1L;Boisson et Eaux;280
+6131000043002;Eau gazeuse Oued Zitoun 1.5L;Boisson et Eaux;110
+6131000043003;Boisson énergisante Red Bull 250ml;Boisson et Eaux;220
+6131000044001;Jambon cuit supérieur 200g;Charcuterie;450
+6131000044002;Chorizo espagnol 200g;Charcuterie;520
+6131000045001;Raisins secs sans pépins 500g;Fruit Sec;350
+6131000045002;Pruneaux dénoyautés 500g;Fruit Sec;400
+6131000045003;Figues sèches 500g;Fruit Sec;380
+6131000046001;Biscuits type Oreo 150g;Gâteau et Biscuit;180
+6131000046002;Croissants au beurre x6;Gâteau et Biscuit;250
+6131000046003;Pain de mie complet 500g;Gâteau et Biscuit;140
+6131000047001;Barres chocolatées Snickers x5;Confiserie et Friandise;220
+6131000047002;Sucettes Chupa Chups x20;Confiserie et Friandise;180
+6131000047003;Gommes Haribo 200g;Confiserie et Friandise;260
+6131000048001;Lingettes bébé x80;Article Bébé;380
+6131000048002;Talons bébé anti-frottement 50ml;Article Bébé;320
+6131000049001;Rasoir jetable pack x10;Hygiène et Beauté;180
+6131000049002;Crème hydratante Nivea 400ml;Hygiène et Beauté;420
+6131000049003;Déodorant roll-on 50ml;Hygiène et Beauté;220
+6131000049004;Masque visage tissu x5;Hygiène et Beauté;280
+6131000050001;Éponge grattante x3;Produit d'entretien;80
+6131000050002;Nettoyant vitre 750ml;Produit d'entretien;180
+6131000050003;Désinfectant sols 1L;Produit d'entretien;250
+6131000051001;Cornichons aigres-doux 680g;Sauce et Conserve;220
+6131000051002;Olives vertes dénoyautées 350g;Sauce et Conserve;180
+6131000051003;Poivrons farcis conserve 400g;Sauce et Conserve;260
+6131000052001;Levure chimique 10 sachets;Ingrédient et Arôme;90
+6131000052002;Cannelle moulue 50g;Ingrédient et Arôme;120
+6131000052003;Vanille liquide 20ml;Ingrédient et Arôme;150
+6131000053001;Croquettes poulet surgelées 1kg;Glace et Surgelé;650
+6131000053002;Petits pois surgelés 1kg;Glace et Surgelé;280
+6131000053003;Haricots verts surgelés 1kg;Glace et Surgelé;300
+6131000054001;Tablette Samsung Galaxy A entrée 64Go;High-Tech et Mobile;38000
+6131000054002;Câble HDMI 2m;High-Tech et Mobile;800
+6131000054003;Support téléphone voiture;High-Tech et Mobile;1200
+6131000055001;Gomme blanche pack x2;Fournitures Scolaires;50
+6131000055002;Règle 30cm transparente;Fournitures Scolaires;80
+6131000055003;Compas géométrie;Fournitures Scolaires;150
+6131000056001;Serviettes papier x100;Vaisselle & Cuisine Jetable;220
+6131000056002;Film alimentaire 30m;Vaisselle & Cuisine Jetable;180
+6131000056003;Papier aluminium 10m;Vaisselle & Cuisine Jetable;160
+6131000057001;Brosse WC;Meuble et Article de Maison;250
+6131000057002;Balai serpillière microfibre;Meuble et Article de Maison;420
+6131000057003;Seau ménage 10L;Meuble et Article de Maison;350
+31000060001;Poire import 1kg;Produit Salé;450
+6131000060002;Pêches locales 1kg;Produit Salé;380
+6131000060003;Abricots frais 1kg;Produit Salé;500
+6131000060004;Raisin de table 1kg;Produit Salé;320
+6131000060005;Pastèque petite unité;Produit Salé;400
+6131000060006;Melon cantaloup 1kg;Produit Salé;280
+6131000060007;Fenouil 1kg;Produit Salé;100
+6131000060008;Navet blanc 1kg;Produit Salé;80
+6131000060009;Carde 1kg;Produit Salé;120
+6131000060010;Petits pois frais 500g;Produit Salé;250
+6131000061001;Viande ovine épaule 1kg;Produit Salé;2800
+6131000061002;Veau escalope 500g;Produit Salé;1500
+6131000061003;Dinde entière ~2kg;Produit Salé;900
+6131000061004;Sardines fraîches 1kg;Produit Salé;1200
+6131000061005;Thon frais steak 500g;Produit Salé;950
+6131000062001;Fromage Picon portions x24;Produit Laitier;450
+6131000062002;Lait fermenté Rayeb 1L;Produit Laitier;120
+6131000062003;Fromage feta bloc 200g;Produit Laitier;380
+6131000062004;Yaourt grec nature 150g;Produit Laitier;180
+6131000062005;Crème chantilly bombe 250g;Produit Laitier;320
+6131000063001;Eau minérale Toudja 1.5L x6;Boisson et Eaux;320
+6131000063002;Jus abricot Cevital 1L;Boisson et Eaux;210
+6131000063003;Boisson énergisante Power Horse 250ml;Boisson et Eaux;250
+6131000063004;Thé noir Lipton 500g;Boisson et Eaux;520
+6131000063005;Café turc 250g;Boisson et Eaux;480
+6131000064001;Blanc de dinde fumé 200g;Charcuterie;480
+6131000064002;Salami italien 200g;Charcuterie;550
+6131000064003;Kefta merguez 500g;Charcuterie;600
+6131000065001;Noix du Brésil 200g;Fruit Sec;520
+6131000065002;Graines de tournesol grillées 300g;Fruit Sec;180
+6131000065003;Arachides en coque 500g;Fruit Sec;250
+6131000066001;Biscuits type BN chocolat 180g;Gâteau et Biscuit;190
+6131000066002;Pain au lait x8;Gâteau et Biscuit;220
+6131000066003;Mini-viennoiseries pack;Gâteau et Biscuit;300
+6131000067001;M&M's chocolat 200g;Confiserie et Friandise;320
+6131000067002;Carambar bonbons 250g;Confiserie et Friandise;160
+6131000067003;Chocolat Toblerone 100g;Confiserie et Friandise;280
+6131000068001;Couches Love & Care taille 4 x70;Article Bébé;1100
+6131000068002;Crème change bébé 100ml;Article Bébé;350
+6131000069001;Shampoing Pantene 400ml;Hygiène et Beauté;420
+6131000069002;Gel douche Axe 400ml;Hygiène et Beauté;280
+6131000069003;Crème mains Nivea 75ml;Hygiène et Beauté;180
+6131000069004;Coloration capillaire Garnier;Hygiène et Beauté;650
+6131000070001;Lessive Skip poudre 2kg;Produit d'entretien;550
+6131000070002;Adoucissant tissus 2L;Produit d'entretien;380
+6131000070003;Nettoyant four 500ml;Produit d'entretien;300
+6131000070004;Détartrant WC 750ml;Produit d'entretien;220
+6131000071001;Olives noires dénoyautées 350g;Sauce et Conserve;200
+6131000071002;Maïs doux conserve 300g;Sauce et Conserve;140
+6131000071003;Champignons conserve 400g;Sauce et Conserve;260
+6131000071004;Artichauts fonds conserve 400g;Sauce et Conserve;380
+6131000072001;Poivre noir moulu 50g;Ingrédient et Arôme;150
+6131000072002;Curcuma moulu 100g;Ingrédient et Arôme;120
+6131000072003;Gingembre moulu 50g;Ingrédient et Arôme;140
+6131000072004;Paprika doux 100g;Ingrédient et Arôme;130
+6131000073001;Beignets surgelés 500g;Glace et Surgelé;450
+6131000073002;Nem surgelés 20 pièces;Glace et Surgelé;380
+6131000073003;Légumes mexicains surgelés 1kg;Glace et Surgelé;320
+6131000074001;Support TV mural 32-55 pouces;High-Tech et Mobile;2800
+6131000074002;Coque smartphone iPhone 15;High-Tech et Mobile;1200
+6131000075001;Marqueur permanent pack x4;Fournitures Scolaires;150
+6131000075002;Trousse écolier simple;Fournitures Scolaires;220
+6131000076001;Papier sulfurisé 10m;Vaisselle & Cuisine Jetable;140
+6131000076002;Boîtes congélation 500ml x10;Vaisselle & Cuisine Jetable;280
+6131000077001;Étagère murale plastique;Meuble et Article de Maison;650
+6131000077002;Porte-serviettes salle bain;Meuble et Article de Maison;380
+6131000078001;Concombre de serre 1kg;Produit Salé;180
+6131000068002;Tomate cerise barquette 500g;Produit Salé;320
+6131000078003;Poivron rouge 1kg;Produit Salé;220
+6131000078004;Haricots verts frais 1kg;Produit Salé;300
+6131000078005;Épinards frais 1kg;Produit Salé;250
+6131000079001;Poulet découpé 1kg;Produit Salé;550
+6131000079002;Filet de poulet 500g;Produit Salé;480
+6131000079003;Foie de poulet 500g;Produit Salé;350
+6131000080001;Lait UHT allégé 1L;Produit Laitier;80
+6131000080002;Yaourt bifidus x8;Produit Laitier;240
+6131000080003;Fromage triangle Kiri x16;Produit Laitier;420
+6131000081001;Jus ananas Ifri 1L;Boisson et Eaux;220
+6131000081002;Eau aromatisée citron 1.5L;Boisson et Eaux;130
+6131000082001;Saucisson à cuire 400g;Charcuterie;450
+6131000082002;Pastrami 200g;Charcuterie;520
+6131000083001;Figues sèches turques 500g;Fruit Sec;420
+6131000083002;Noix de pécan 200g;Fruit Sec;580
+6131000084001;Biscuits sablés beurre 200g;Gâteau et Biscuit;210
+6131000084002;Génoise nature 300g;Gâteau et Biscuit;280
+6131000085001;KitKat 4 doigts;Confiserie et Friandise;120
+6131000085002;Twix pack x5;Confiserie et Friandise;220
+6131000086001;Biberon anti-colique 270ml;Article Bébé;550
+6131000086002;Sucette orthodontique;Article Bébé;180
+6131000087001;Après-shampoing Elseve 200ml;Hygiène et Beauté;350
+6131000087002;Masque capillaire 300ml;Hygiène et Beauté;480
+6131000088001;Lessive liquide Omo 3L;Produit d'entretien;750
+6131000088002;Spray anti-calcaire 750ml;Produit d'entretien;280
+6131000089001;Pois chiches conserve 400g;Sauce et Conserve;160
+6131000089002;Lentilles conserve 400g;Sauce et Conserve;170
+6131000090001;Sel fin 1kg;Ingrédient et Arôme;60
+6131000090002;Bicarbonate alimentaire 500g;Ingrédient et Arôme;90
+6131000091001;Escalopes de dinde surgelées 1kg;Glace et Surgelé;680
+6131000091002;Boulettes kefta surgelées 1kg;Glace et Surgelé;550
+6131000092001;Adaptateur USB multi-ports;High-Tech et Mobile;1500
+6131000092002;Écran protecteur verre trempé;High-Tech et Mobile;800
+6131000093001;Crayons de couleur x12;Fournitures Scolaires;180
+6131000093002;Feutres fins pack x10;Fournitures Scolaires;250
+6131000094001;Essuie-tout 4 rouleaux;Vaisselle & Cuisine Jetable;300
+6131000094002;Serviettes table x50;Vaisselle & Cuisine Jetable;280
+6131000095001;Poubelle cuisine 30L;Meuble et Article de Maison;850
+6131000095002;Range-chaussures 3 niveaux;Meuble et Article de Maison;1200
